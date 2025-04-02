@@ -1,7 +1,6 @@
 import Message from "../models/Message.model.js";
 import ServerError from "../utils/errors.util.js";
 import channelRepository from "./channel.repository.js";
-import workspaceRepository from "./workspace.repository.js";
 
 class MessageRepository {
     async create({ channel_id, sender_id, content }) {
