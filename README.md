@@ -25,3 +25,11 @@ Y bueno, aunque en clase dijiste que una crítica positiva no siempre sirve, igu
 y accesible. Las clases tal vez no fueron suficientes para ver todo en profundidad, pero el material y la base que nos diste son de gran calidad. 
 Siento que con lo aprendido acá tengo herramientas para seguir creciendo y mejorando en el desarrollo Fullstack. Así que gracias por eso y por el apoyo durante todo el proceso.
 
+Falta en el proyecto: 
+
+No hay un buen manejo de errores desde el front ni estilos para ello, mi manejo fue desorganizado, debi hacer un hook desde un principio, intente hacerlo con el proyecto avanzado y solo cause mas errores y rupturas de codigo y con ello tiempo desperciado.
+
+La sección de workspacesId no tiene responsive aplicado, no llegué con el tiempo.
+
+
+
