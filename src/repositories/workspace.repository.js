@@ -1,6 +1,6 @@
 import Workspace from "../models/Workspace.model.js";
 import ServerError from "../utils/errors.util.js";
-import Message from "../models/Message.model.js";
+import Message from "../models/message.model.js";
 
 class WorkspaceRepository {
     async findWorkspaceById(_id) {
